@@ -6,8 +6,10 @@
 * However, by narrowing the window to look at Netflix movies that released after the introduction of online streaming, there does appear to be a gradual decline in movie duration since 2007. 
 
 ## Screenshot of Line Plot and Scatter Plot Generated
-![](/images/scatterplot-netflix.png)
-![](/images/lineplot-netflix.png)
+![](/images/Netflix_fig2.png)
+![](/images/Netflix_fig3.png)
+![](/images/Netflix_fig4.png)
+![](/images/Netflix_fig5.png)
 
 ## Inspiration
 * Datacamp Project: Investigating Netflix Movies and Guest Stars in The Office
@@ -15,6 +17,5 @@
 
 ## Libraries Used
 * [Matplotlib](https://matplotlib.org/stable/tutorials/index)
-* [NumPy](https://numpy.org/doc/stable/)
 * [Pandas](https://pandas.pydata.org/)
 * [Seaborn](https://seaborn.pydata.org/)
