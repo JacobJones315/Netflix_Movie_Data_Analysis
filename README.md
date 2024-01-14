@@ -12,7 +12,7 @@
 ![](/images/Netflix_fig5.png)
 
 ## Inspiration
-* Datacamp Project: Investigating Netflix Movies and Guest Stars in The Office
+* Datacamp Project: Investigating Netflix Movies 
 
 ## Libraries Used
 * [Matplotlib](https://matplotlib.org/stable/tutorials/index)
