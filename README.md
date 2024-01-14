@@ -1,11 +1,11 @@
 # Exploring Trends in Netflix Movie Runtimes
-* In this analysis, I delved into the world of Netflix movies to understand whether there's a discernible pattern in their durations over the years. Leveraging the power of Matplotlib, Pandas, and Seaborn, I crafted a series of compelling visualizations, including line charts, bar charts, histograms, box plots, and scatterplots.
+* In this analysis, I delved into the world of Netflix movies to understand whether there's a discernible pattern in their durations over the years. Leveraging the power of Matplotlib, Pandas, and Seaborn, I crafted a series of compelling visualizations, including line charts, bar chart, histogram, and scatterplots.
 
-* The overarching conclusion drawn from the data is intriguing — there appears to be no significant trend in the runtime of Netflix movies when looked at the entirety of Netflix's library. A meticulous examination through line charts and scatter plots showcasing movie durations by year reveals a lack of any distinct upward or downward trajectory. This observation holds true even when filtering out popular genres such as dramas, action, documentaries, comedies, children's movies, and stand-up comedies, as indicated by the data points in the scatter plot.
+* The overarching conclusion derived from this deep dive into the data is indeed intriguing — there seems to be no substantial trend in the overall runtime of Netflix movies when considering the entirety of the streaming giant's library. A detailed examination through the lens of line charts and scatter plots, depicting movie durations by year, reveals a captivating absence of any clear upward or downward trajectory. This observation remains steadfast even after filtering out popular genres like dramas, action, documentaries, comedies, children's movies, and stand-up comedies, as highlighted by the scatter plot's data points.
 
-* However, by narrowing the window to look at Netflix movies that released after the introduction of online streaming, there does appear to be a gradual decline in movie duration since 2007. 
+* Nevertheless, when narrowing the focus to Netflix movies released post the advent of online streaming, a subtle shift comes to light. A gradual decline in movie duration since 2007 emerges, adding a nuanced layer to the evolution of Netflix's cinematic offerings. This revelation unfolds gracefully in the line charts provided, offering a glimpse into the changing landscape of movie durations within Netflix's post-streaming era.
 
-## Screenshot of Line Plot and Scatter Plot Generated
+## Screenshot of Line Plots, Scatter Plot and Histogram Generated
 ![](/images/Netflix_fig2.png)
 ![](/images/Netflix_fig3.png)
 ![](/images/Netflix_fig4.png)
@@ -13,7 +13,6 @@
 
 ## Inspiration
 * Datacamp Project: Investigating Netflix Movies and Guest Stars in The Office
-* Special Thanks to [Anthony Moreno](https://deepnote.com/@anthonymanotoa/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office-ba105040-ad15-4e67-bede-e9512920fa38) for providing context and a starting point for the analysis
 
 ## Libraries Used
 * [Matplotlib](https://matplotlib.org/stable/tutorials/index)
