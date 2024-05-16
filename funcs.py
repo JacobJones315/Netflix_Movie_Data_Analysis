@@ -78,7 +78,7 @@ plt.title("Netflix Movie Lengths Since Introduction of Online Streaming")
 
 ##
 colors2 = {'Documentaries': 'red', 'Stand-Up': 'blue', 'Children': 'green', 'Comedies':'Black', 'Action':'orange', 'Dramas' : 'pink'}
-# Assuming 'colors' is a list assigned based on genres
+
 fig_ac = plt.figure(dpi= 100)
 ac=sns.scatterplot(x='release_year', y='duration', hue='genre', palette=colors2, data=Popular_genres)
 
